@@ -1,0 +1,93 @@
+.vc_element-icon.wyde-icon{
+    background-image: url(images/vela-icons.png)!important;
+}
+.wyde-icon.counter-box-icon{
+    background-position: 0 0;
+}
+.wyde-icon.icon-block-icon{
+    background-position: 0 -32px;
+}
+.wyde-icon.portfolio-grid-icon{
+    background-position: 0 -64px;
+}
+.wyde-icon.posts-slider-icon{
+    background-position: 0 -96px;
+}
+.wyde-icon.testimonials-slider-icon{
+    background-position: 0 -128px;
+}
+.wyde-icon.team-slider-icon{
+    background-position: 0 -160px;
+}
+.wyde-icon.image-carousel-icon{
+    background-position: 0 -192px;
+}
+.wyde-icon.pricing-box-icon{
+    background-position: 0 -225px;
+}
+.wyde-icon.blog-posts-icon{
+    background-position: 0 -256px;
+}
+.wyde-icon.info-box-icon{
+    background-position: 0 -288px;
+}
+.wyde-icon.donut-chart-icon{
+    background-position: 0 -320px;
+}
+.wyde-icon.half-donut-chart-icon{
+    background-position: 0 -352px;
+}
+.wyde-icon.heading-icon{
+    background-position: 0 -384px;
+}
+.wyde-icon.button-icon{
+    background-position: 0 -416px;
+}
+.wyde-icon.link-button-icon{
+    background-position: 0 -448px;
+}
+
+.animation-field,
+.animation-preview{
+    width: 45%;
+    float: left;
+}
+.animation-preview span{
+    display: block;
+    text-align: center;
+    margin: 0 10px;
+    font-size: 30px;
+    height: 38px;
+    line-height: 38px;
+    background: #000;
+    color: #fff;
+}
+
+.wyde_icons_field{
+    display: block;
+    height: 34px;
+    line-height: 1.5;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    position: relative;
+}
+
+.select2-selection__rendered, 
+.select2-results__option {
+    font-family: 'FontAwesome';
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.select2-container .select2-selection--single,
+.select2-container--default .select2-selection--single .select2-selection__rendered,
+.select2-container--default .select2-selection--single .select2-selection__arrow{
+    height: 35px;
+    line-height: 35px;
+}
+
+.vc-icons-selector .selector .selected-icon i,
+.vc-icons-selector .fip-icons-container .fip-box{
+    font-size: 28px;
+}

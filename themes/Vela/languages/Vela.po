@@ -1,0 +1,1707 @@
+# Vela Theme
+msgid ""
+msgstr ""
+"Project-Id-Version: Vela\n"
+"POT-Creation-Date: 2015-02-08 15:59+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:6
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: author.php:23
+msgid "This author has not yet filled in any details."
+msgstr ""
+
+#: author.php:24
+#, php-format
+msgid "%s has created %s entries."
+msgstr ""
+
+#: author.php:39
+msgid "About"
+msgstr ""
+
+#: author.php:41
+msgid "Edit Profile"
+msgstr ""
+
+#: author.php:48
+msgid "Entries By"
+msgstr ""
+
+#: comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:11
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:11
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:11 admin/options.php:1081
+msgid "Comments"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:48
+msgid "Name"
+msgstr ""
+
+#: comments.php:48 comments.php:50 inc/class-tgm-plugin-activation.php:1153
+msgid "Required"
+msgstr ""
+
+#: comments.php:50
+msgid "Email"
+msgstr ""
+
+#: comments.php:52 single-portfolio.php:131 inc/metaboxes/options.php:460
+#: inc/metaboxes/options.php:503
+msgid "Website"
+msgstr ""
+
+#: comments.php:59
+msgid "Post A Comment"
+msgstr ""
+
+#: comments.php:60
+msgid "Leave A Reply"
+msgstr ""
+
+#: comments.php:61
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr ""
+
+#: comments.php:62
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:62
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:62
+msgid "Log out"
+msgstr ""
+
+#: comments.php:65
+msgid "Comment..."
+msgstr ""
+
+#: comments.php:67
+msgid "Post Comment"
+msgstr ""
+
+#: content-audio.php:75 content-gallery.php:104 content-link.php:55
+#: content-quote.php:52 content-video.php:76 content.php:54
+msgid "Read More"
+msgstr ""
+
+#: functions.php:342
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:400
+msgid "Enter the customer's name here"
+msgstr ""
+
+#: functions.php:403
+msgid "Enter the member's name here"
+msgstr ""
+
+#: functions.php:495 inc/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:496 inc/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:497 inc/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:498
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:509 inc/class-tgm-plugin-activation.php:180
+#: inc/class-tgm-plugin-activation.php:511
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:510 inc/class-tgm-plugin-activation.php:181
+#: inc/class-tgm-plugin-activation.php:1921
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:511
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: page-title.php:125 admin/options.php:1300
+msgid "Search"
+msgstr ""
+
+#: page-title.php:129
+msgid "Error 404 Page"
+msgstr ""
+
+#: page-title.php:134
+msgid "Daily Archives"
+msgstr ""
+
+#: page-title.php:136
+msgid "Monthly Archives"
+msgstr ""
+
+#: page-title.php:138
+msgid "Yearly Archives"
+msgstr ""
+
+#: search.php:25
+msgid "Search Results for"
+msgstr ""
+
+#: search.php:70
+msgid "No result found."
+msgstr ""
+
+#: single-portfolio.php:169
+msgid "Visit Site"
+msgstr ""
+
+#: admin/options.php:75
+msgid "Import Demo Content"
+msgstr ""
+
+#: admin/options.php:76
+msgid ""
+"Importing demo content will give you pages, posts, portfolio, team members, "
+"testimonials, widgets, sidebars, sliders and other settings. Please make "
+"sure you have required plugins installed and activated to receive that "
+"portion of the content."
+msgstr ""
+
+#: admin/options.php:85
+msgid "WARNING:"
+msgstr ""
+
+#: admin/options.php:86
+msgid ""
+"Importing demo content will replace your current settings and append your "
+"pages and posts. It can also take a minute to complete. <br />If you want to "
+"clear existing data before importing, Please try <a href=\"https://wordpress."
+"org/plugins/wordpress-reset/\" target=\"_blank\">WordPress Reset</a> plugin "
+"to reset your existing data."
+msgstr ""
+
+#: admin/options.php:106
+msgid "Success!"
+msgstr ""
+
+#: admin/options.php:107
+msgid "Successfully imported the demo data."
+msgstr ""
+
+#: admin/options.php:118
+msgid "ERROR!"
+msgstr ""
+
+#: admin/options.php:119
+msgid "An error occurred while importing demo data, please try again later."
+msgstr ""
+
+#: admin/options.php:126
+msgid "Home"
+msgstr ""
+
+#: admin/options.php:140
+msgid "Styling"
+msgstr ""
+
+#: admin/options.php:146
+msgid "Predefined Colors"
+msgstr ""
+
+#: admin/options.php:147
+msgid "Select a predefined color schemes."
+msgstr ""
+
+#: admin/options.php:154
+msgid "Custom Color Scheme"
+msgstr ""
+
+#: admin/options.php:155
+msgid "Customize your own color scheme."
+msgstr ""
+
+#: admin/options.php:161
+msgid "Color Scheme"
+msgstr ""
+
+#: admin/options.php:162
+msgid "Choose your own color scheme."
+msgstr ""
+
+#: admin/options.php:170 admin/options.php:394 admin/options.php:1010
+#: inc/metaboxes/options.php:378
+msgid "Layout"
+msgstr ""
+
+#: admin/options.php:171
+msgid "Select layout for your site."
+msgstr ""
+
+#: admin/options.php:190
+msgid "Box Shadow"
+msgstr ""
+
+#: admin/options.php:191
+msgid "Attaches drop-shadow to the boxed layout."
+msgstr ""
+
+#: admin/options.php:197 admin/options.php:715 admin/options.php:820
+#: admin/options.php:827 inc/metaboxes/options.php:294
+msgid "Background"
+msgstr ""
+
+#: admin/options.php:198 admin/options.php:716 admin/options.php:828
+msgid "Select background type."
+msgstr ""
+
+#: admin/options.php:209 admin/options.php:753 admin/options.php:865
+#: inc/metaboxes/options.php:208 inc/metaboxes/options.php:320
+msgid "Background Color"
+msgstr ""
+
+#: admin/options.php:218
+msgid "Select a background color for your site."
+msgstr ""
+
+#: admin/options.php:227 admin/options.php:729 admin/options.php:841
+#: inc/metaboxes/options.php:196 inc/metaboxes/options.php:308
+msgid "Background Image"
+msgstr ""
+
+#: admin/options.php:229
+msgid "Customize background image for your site."
+msgstr ""
+
+#: admin/options.php:242
+msgid "Background Pattern"
+msgstr ""
+
+#: admin/options.php:243
+msgid "Select a background pattern."
+msgstr ""
+
+#: admin/options.php:264
+msgid "Background Pattern Overlay"
+msgstr ""
+
+#: admin/options.php:265
+msgid "Apply an overlay pattern to the background."
+msgstr ""
+
+#: admin/options.php:272
+msgid "Fixed Background Pattern"
+msgstr ""
+
+#: admin/options.php:273
+msgid "The background pattern is fixed with regard to the viewport."
+msgstr ""
+
+#: admin/options.php:282 admin/options.php:288
+msgid "Favicon"
+msgstr ""
+
+#: admin/options.php:289
+msgid "Customize a favicon for your site."
+msgstr ""
+
+#: admin/options.php:296
+msgid "Favicon Image (.PNG)"
+msgstr ""
+
+#: admin/options.php:298
+msgid ""
+"Upload a favicon image for your site, or you can specify an image URL "
+"directly."
+msgstr ""
+
+#: admin/options.php:299 admin/options.php:311 admin/options.php:322
+#: admin/options.php:332 admin/options.php:342 admin/options.php:352
+msgid "Icon dimension:"
+msgstr ""
+
+#: admin/options.php:308
+msgid "Favicon (.ICO)"
+msgstr ""
+
+#: admin/options.php:310
+msgid ""
+"Upload a favicon for your site, or you can specify an icon URL directly."
+msgstr ""
+
+#: admin/options.php:318
+msgid "Apple iPhone Icon"
+msgstr ""
+
+#: admin/options.php:321
+msgid "Favicon for Apple iPhone."
+msgstr ""
+
+#: admin/options.php:328
+msgid "Apple iPhone Icon (Retina Version)"
+msgstr ""
+
+#: admin/options.php:331
+msgid "Favicon for Apple iPhone Retina Version."
+msgstr ""
+
+#: admin/options.php:338
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: admin/options.php:341
+msgid "Favicon for Apple iPad."
+msgstr ""
+
+#: admin/options.php:348
+msgid "Apple iPad Icon (Retina Version)"
+msgstr ""
+
+#: admin/options.php:351
+msgid "Favicon for Apple iPad Retina Version."
+msgstr ""
+
+#: admin/options.php:360 admin/options.php:366 inc/metaboxes/options.php:572
+msgid "Header"
+msgstr ""
+
+#: admin/options.php:367
+msgid "Customize the header section."
+msgstr ""
+
+#: admin/options.php:373
+msgid "Sticky Header"
+msgstr ""
+
+#: admin/options.php:374
+msgid "Enable sticky header."
+msgstr ""
+
+#: admin/options.php:380
+msgid "Transparent Header"
+msgstr ""
+
+#: admin/options.php:381
+msgid ""
+"Enable transparent header to display header overlay sliders and page content."
+msgstr ""
+
+#: admin/options.php:387
+msgid "Fluid Header"
+msgstr ""
+
+#: admin/options.php:388
+msgid "Turn on to use fluid header or off to use fixed header width."
+msgstr ""
+
+#: admin/options.php:395
+msgid "Select header layout."
+msgstr ""
+
+#: admin/options.php:410 inc/metaboxes/options.php:582
+msgid "Menu Style"
+msgstr ""
+
+#: admin/options.php:411 inc/metaboxes/options.php:583
+msgid ""
+"Select a menu style. Choose \"Light\" for the header which has \"Dark\" "
+"background color."
+msgstr ""
+
+#: admin/options.php:421
+msgid "Top Bar Menu"
+msgstr ""
+
+#: admin/options.php:422
+msgid "Select the position of header top bar menu."
+msgstr ""
+
+#: admin/options.php:433
+msgid "Social Icons"
+msgstr ""
+
+#: admin/options.php:434
+msgid "Select the position of header top bar social media icons."
+msgstr ""
+
+#: admin/options.php:445
+msgid "Search Icon"
+msgstr ""
+
+#: admin/options.php:446
+msgid "Show search icon in header."
+msgstr ""
+
+#: admin/options.php:452
+msgid "Shopping Cart Icon"
+msgstr ""
+
+#: admin/options.php:453
+msgid "Show shopping cart icon in header."
+msgstr ""
+
+#: admin/options.php:459
+msgid "Header Position"
+msgstr ""
+
+#: admin/options.php:460
+msgid "Select header position."
+msgstr ""
+
+#: admin/options.php:470 admin/options.php:478
+msgid "Logo"
+msgstr ""
+
+#: admin/options.php:471
+msgid "Customize a logo image for your site."
+msgstr ""
+
+#: admin/options.php:481
+msgid ""
+"Upload a custom logo image for your site, or you can specify an image URL "
+"directly."
+msgstr ""
+
+#: admin/options.php:490
+msgid "Logo (Retina Version)"
+msgstr ""
+
+#: admin/options.php:493
+msgid ""
+"Upload a retina logo image for your site, or you can specify an image URL "
+"directly."
+msgstr ""
+
+#: admin/options.php:494 admin/options.php:532
+msgid "It should be exactly 2x the size of normal logo."
+msgstr ""
+
+#: admin/options.php:505
+msgid "Logo Height"
+msgstr ""
+
+#: admin/options.php:506
+msgid "Enter your standard logo height."
+msgstr ""
+
+#: admin/options.php:507 admin/options.php:545
+msgid "Max height:"
+msgstr ""
+
+#: admin/options.php:516
+msgid "Sticky Logo"
+msgstr ""
+
+#: admin/options.php:519 admin/options.php:531
+msgid "Sticky header logo."
+msgstr ""
+
+#: admin/options.php:528
+msgid "Sticky Logo (Retina Version)"
+msgstr ""
+
+#: admin/options.php:543
+msgid "Sticky Logo Height"
+msgstr ""
+
+#: admin/options.php:544
+msgid "Enter your standard sticky logo height."
+msgstr ""
+
+#: admin/options.php:556 inc/metaboxes/options.php:647
+msgid "Footer"
+msgstr ""
+
+#: admin/options.php:562 admin/options.php:569
+msgid "Footer Widget Area"
+msgstr ""
+
+#: admin/options.php:563
+msgid "Customize the footer widget area."
+msgstr ""
+
+#: admin/options.php:570
+msgid "Display footer widgets."
+msgstr ""
+
+#: admin/options.php:577
+msgid "Footer Widget Area Background"
+msgstr ""
+
+#: admin/options.php:578
+msgid "Set a footer widget area background."
+msgstr ""
+
+#: admin/options.php:592
+msgid "Footer Background Parallax"
+msgstr ""
+
+#: admin/options.php:593 inc/metaboxes/options.php:227
+#: inc/metaboxes/options.php:358
+msgid "Enable parallax background scrolling."
+msgstr ""
+
+#: admin/options.php:600
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: admin/options.php:601
+msgid "Select the number of columns to display in the footer widget area."
+msgstr ""
+
+#: admin/options.php:613 admin/options.php:620
+msgid "Footer Bottom Bar"
+msgstr ""
+
+#: admin/options.php:614
+msgid "Customize the footer bottom bar."
+msgstr ""
+
+#: admin/options.php:621
+msgid "Display a footer bar at the bottom of the page."
+msgstr ""
+
+#: admin/options.php:628
+msgid "Footer Bar Background"
+msgstr ""
+
+#: admin/options.php:629
+msgid "Set a footer bottom bar background."
+msgstr ""
+
+#: admin/options.php:643
+msgid "Footer Bar Columns"
+msgstr ""
+
+#: admin/options.php:644
+msgid "Select a footer bottom bar columns."
+msgstr ""
+
+#: admin/options.php:655
+msgid "Show Footer Text"
+msgstr ""
+
+#: admin/options.php:656
+msgid "Display a footer text."
+msgstr ""
+
+#: admin/options.php:663
+msgid "Footer Text"
+msgstr ""
+
+#: admin/options.php:664
+msgid "Enter your footer text here."
+msgstr ""
+
+#: admin/options.php:675
+msgid "Footer Menu"
+msgstr ""
+
+#: admin/options.php:676
+msgid "Select a footer bar menu items."
+msgstr ""
+
+#: admin/options.php:690
+msgid "Page"
+msgstr ""
+
+#: admin/options.php:696
+msgid "Title"
+msgstr ""
+
+#: admin/options.php:697
+msgid "Default settings for page title."
+msgstr ""
+
+#: admin/options.php:703 inc/metaboxes/options.php:169
+msgid "Title Alignment"
+msgstr ""
+
+#: admin/options.php:704 inc/metaboxes/options.php:170
+msgid "Select the title alignment."
+msgstr ""
+
+#: admin/options.php:731 admin/options.php:843
+msgid "Customize background image."
+msgstr ""
+
+#: admin/options.php:743 admin/options.php:855 inc/metaboxes/options.php:202
+#: inc/metaboxes/options.php:314
+msgid "Background Video"
+msgstr ""
+
+#: admin/options.php:744 admin/options.php:856
+msgid "Customize background video."
+msgstr ""
+
+#: admin/options.php:754 admin/options.php:866
+msgid "Select a background color."
+msgstr ""
+
+#: admin/options.php:760 admin/options.php:896
+msgid "Parallax Background"
+msgstr ""
+
+#: admin/options.php:761 admin/options.php:897
+msgid "Enable parallax background when scrolling."
+msgstr ""
+
+#: admin/options.php:768 inc/metaboxes/options.php:233
+msgid "Title Background Overlay"
+msgstr ""
+
+#: admin/options.php:769 inc/metaboxes/options.php:234
+msgid "Apply an overlay to the title background."
+msgstr ""
+
+#: admin/options.php:781 admin/options.php:886 inc/metaboxes/options.php:245
+#: inc/metaboxes/options.php:350
+msgid "Overlay Color"
+msgstr ""
+
+#: admin/options.php:782 admin/options.php:887 inc/metaboxes/options.php:246
+#: inc/metaboxes/options.php:351
+msgid "Select background color overlay."
+msgstr ""
+
+#: admin/options.php:791 inc/metaboxes/options.php:252
+msgid "Content Mask"
+msgstr ""
+
+#: admin/options.php:792 inc/metaboxes/options.php:253
+msgid "Select content mask style."
+msgstr ""
+
+#: admin/options.php:812 inc/metaboxes/options.php:274
+msgid "Mask Color"
+msgstr ""
+
+#: admin/options.php:813 inc/metaboxes/options.php:275
+msgid "Select content mask color."
+msgstr ""
+
+#: admin/options.php:821
+msgid "Default settings for page background."
+msgstr ""
+
+#: admin/options.php:873 inc/metaboxes/options.php:338
+msgid "Background Overlay"
+msgstr ""
+
+#: admin/options.php:874 inc/metaboxes/options.php:339
+msgid "Apply an overlay to the background."
+msgstr ""
+
+#: admin/options.php:903
+msgid "Options"
+msgstr ""
+
+#: admin/options.php:904
+msgid "Turn on or off page features."
+msgstr ""
+
+#: admin/options.php:910
+msgid "Responsive Design"
+msgstr ""
+
+#: admin/options.php:911
+msgid "Turn on the responsive design. If off then the fixed layout is used."
+msgstr ""
+
+#: admin/options.php:917
+msgid "One Page Website"
+msgstr ""
+
+#: admin/options.php:918
+msgid ""
+"When you turn this option on, your frontpage will automatically retrieve "
+"page content from primary menu."
+msgstr ""
+
+#: admin/options.php:924
+msgid "Ajax Page Transitions"
+msgstr ""
+
+#: admin/options.php:925
+msgid "Enable ajax page transitions."
+msgstr ""
+
+#: admin/options.php:932
+msgid "Transition Effect"
+msgstr ""
+
+#: admin/options.php:933
+msgid "Select a page transition effect."
+msgstr ""
+
+#: admin/options.php:948
+msgid "AJAX Loader"
+msgstr ""
+
+#: admin/options.php:949
+msgid "Select a page loader animation."
+msgstr ""
+
+#: admin/options.php:964
+msgid "Smooth Scrolling"
+msgstr ""
+
+#: admin/options.php:965
+msgid "Enable a smooth scrolling."
+msgstr ""
+
+#: admin/options.php:971
+msgid "Back To Top Button"
+msgstr ""
+
+#: admin/options.php:972
+msgid "Enable a back to top button on your pages."
+msgstr ""
+
+#: admin/options.php:978
+msgid "Allow Comments"
+msgstr ""
+
+#: admin/options.php:979
+msgid "Allow comments on regular pages."
+msgstr ""
+
+#: admin/options.php:990 admin/options.php:996
+msgid "Blog"
+msgstr ""
+
+#: admin/options.php:997
+msgid "Customize blog page for the assigned Posts page in Settings > Reading."
+msgstr ""
+
+#: admin/options.php:1003 inc/metaboxes/options.php:157
+msgid "Page Title"
+msgstr ""
+
+#: admin/options.php:1004
+msgid "This text will display in the page title of the assigned blog page."
+msgstr ""
+
+#: admin/options.php:1011
+msgid "Select blog posts view."
+msgstr ""
+
+#: admin/options.php:1023
+msgid "Masonry Columns"
+msgstr ""
+
+#: admin/options.php:1024
+msgid "Select the number of grid columns."
+msgstr ""
+
+#: admin/options.php:1036
+msgid "Pagination Type"
+msgstr ""
+
+#: admin/options.php:1037
+msgid "Select the pagination type for blog page."
+msgstr ""
+
+#: admin/options.php:1048
+msgid "Blog Single Post"
+msgstr ""
+
+#: admin/options.php:1049
+msgid "Customize blog single post."
+msgstr ""
+
+#: admin/options.php:1055 admin/options.php:1184 admin/options.php:1306
+#: inc/metaboxes/options.php:119
+msgid "Sidebar"
+msgstr ""
+
+#: admin/options.php:1056
+msgid "Select blog single post sidebar position."
+msgstr ""
+
+#: admin/options.php:1067
+msgid "Post Tags"
+msgstr ""
+
+#: admin/options.php:1068
+msgid "Display post tags."
+msgstr ""
+
+#: admin/options.php:1074 admin/options.php:1196
+msgid "Post Navigation"
+msgstr ""
+
+#: admin/options.php:1075 admin/options.php:1197
+msgid "Display next and previous posts."
+msgstr ""
+
+#: admin/options.php:1082
+msgid "Display comments box."
+msgstr ""
+
+#: admin/options.php:1088 admin/options.php:1203
+msgid "Related Posts"
+msgstr ""
+
+#: admin/options.php:1089 admin/options.php:1204
+msgid "Display related posts."
+msgstr ""
+
+#: admin/options.php:1096 admin/options.php:1211
+msgid "Related Posts Title"
+msgstr ""
+
+#: admin/options.php:1097 admin/options.php:1212
+msgid "The title of related posts box."
+msgstr ""
+
+#: admin/options.php:1104 admin/options.php:1219
+msgid "Number of related posts"
+msgstr ""
+
+#: admin/options.php:1105 admin/options.php:1220
+msgid "Select the number of posts to show in related posts."
+msgstr ""
+
+#: admin/options.php:1124
+msgid "Blog Meta"
+msgstr ""
+
+#: admin/options.php:1125
+msgid "Customize blog meta data options."
+msgstr ""
+
+#: admin/options.php:1131
+msgid "Blog Author Name"
+msgstr ""
+
+#: admin/options.php:1132
+msgid "Display blog author meta data."
+msgstr ""
+
+#: admin/options.php:1138
+msgid "Post Time"
+msgstr ""
+
+#: admin/options.php:1139
+msgid "Display blog post time."
+msgstr ""
+
+#: admin/options.php:1145
+msgid "Category"
+msgstr ""
+
+#: admin/options.php:1146
+msgid "Display blog meta category."
+msgstr ""
+
+#: admin/options.php:1152
+msgid "Comment"
+msgstr ""
+
+#: admin/options.php:1153
+msgid "Display blog meta comment."
+msgstr ""
+
+#: admin/options.php:1159
+msgid "Social Sharing Icons"
+msgstr ""
+
+#: admin/options.php:1160
+msgid "Display blog social sharing icons."
+msgstr ""
+
+#: admin/options.php:1171
+msgid "Portfolio"
+msgstr ""
+
+#: admin/options.php:1177
+msgid "Portfolio Slug"
+msgstr ""
+
+#: admin/options.php:1178
+msgid ""
+"Change/Rewrite the permalink when you use the permalink type as %postname%."
+msgstr ""
+
+#: admin/options.php:1185
+msgid "Select portfolio single post sidebar position."
+msgstr ""
+
+#: admin/options.php:1242
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/options.php:1248
+msgid "Number of Products per Page"
+msgstr ""
+
+#: admin/options.php:1249
+msgid "Enter the number of products per page."
+msgstr ""
+
+#: admin/options.php:1257
+msgid "Single Product"
+msgstr ""
+
+#: admin/options.php:1258
+msgid "Customize shop single product."
+msgstr ""
+
+#: admin/options.php:1264
+msgid "Shop Single Sidebar"
+msgstr ""
+
+#: admin/options.php:1265
+msgid "Select shop single product sidebar position."
+msgstr ""
+
+#: admin/options.php:1277
+msgid "Number of Related Products"
+msgstr ""
+
+#: admin/options.php:1278
+msgid "Select the number of related products."
+msgstr ""
+
+#: admin/options.php:1307
+msgid "Select search page sidebar position."
+msgstr ""
+
+#: admin/options.php:1318
+msgid "Number of Search Results Per Page"
+msgstr ""
+
+#: admin/options.php:1319
+msgid "Enter the number of search results per page."
+msgstr ""
+
+#: admin/options.php:1327
+msgid "Show Featured Image."
+msgstr ""
+
+#: admin/options.php:1328
+msgid "Display featured images in search results."
+msgstr ""
+
+#: admin/options.php:1334
+msgid "Show Post Date."
+msgstr ""
+
+#: admin/options.php:1335
+msgid "Display post date in search results."
+msgstr ""
+
+#: admin/options.php:1341
+msgid "Show Author."
+msgstr ""
+
+#: admin/options.php:1342
+msgid "Display post author in search results."
+msgstr ""
+
+#: admin/options.php:1348
+msgid "Ajax Search"
+msgstr ""
+
+#: admin/options.php:1349
+msgid "Enable ajax auto suggest search."
+msgstr ""
+
+#: admin/options.php:1361
+msgid "Post Types"
+msgstr ""
+
+#: admin/options.php:1362
+msgid "Select post types for ajax auto suggest search."
+msgstr ""
+
+#: admin/options.php:1374
+msgid "Number of Suggestion Items."
+msgstr ""
+
+#: admin/options.php:1375
+msgid "Enter the number of search suggestion items per post type."
+msgstr ""
+
+#: admin/options.php:1397 admin/options.php:1403
+msgid "Social Media"
+msgstr ""
+
+#: admin/options.php:1404
+msgid ""
+"Enter your social media URLs, then you can choose to display these in header "
+"and footer."
+msgstr ""
+
+#: admin/options.php:1463
+msgid "Typography"
+msgstr ""
+
+#: admin/options.php:1464
+msgid "Customize font options for your site."
+msgstr ""
+
+#: admin/options.php:1470
+msgid "Font options for main body text."
+msgstr ""
+
+#: admin/options.php:1492
+msgid "Font options for main navigation menu."
+msgstr ""
+
+#: admin/options.php:1516
+msgid "Font options for H1."
+msgstr ""
+
+#: admin/options.php:1537
+msgid "Font options for H2."
+msgstr ""
+
+#: admin/options.php:1558
+msgid "Font options for H3."
+msgstr ""
+
+#: admin/options.php:1578
+msgid "Title Text"
+msgstr ""
+
+#: admin/options.php:1579
+msgid ""
+"Font options for title text in visual composer elements, revolution slider "
+"and shortcodes in your website."
+msgstr ""
+
+#: admin/options.php:1606
+msgid "Advanced"
+msgstr ""
+
+#: admin/options.php:1612
+msgid "Head Content"
+msgstr ""
+
+#: admin/options.php:1613
+msgid ""
+"Enter HTML/JavaScript/StyleSheet code that insert into the head tag. You can "
+"also add a Google Analytics code, Google Verification code or custom Meta "
+"HTTP Content here."
+msgstr ""
+
+#: admin/options.php:1620
+msgid "Body Content"
+msgstr ""
+
+#: admin/options.php:1621
+msgid ""
+"Enter HTML/JavaScript/StyleSheet code that insert into the body tag. This "
+"will be added into the footer template of your theme."
+msgstr ""
+
+#: admin/options.php:1630
+msgid "Import / Export"
+msgstr ""
+
+#: admin/options.php:1631
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: admin/options.php:1650
+msgid "Customize"
+msgstr ""
+
+#: admin/options.php:1665 inc/custom-functions.php:438
+msgid "By"
+msgstr ""
+
+#: admin/options.php:1666
+msgid "Version"
+msgstr ""
+
+#: admin/options.php:1667
+msgid "Tags"
+msgstr ""
+
+#: admin/options.php:1671
+msgid ""
+"This <a href=\"http://codex.wordpress.org/Child_Themes\">child theme</a> "
+"requires its parent theme"
+msgstr ""
+
+#: admin/options.php:1686
+msgid "Theme Information"
+msgstr ""
+
+#: admin/options.php:1687
+msgid "For more information and features about this theme, please visit"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:182
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:538
+#: inc/class-tgm-plugin-activation.php:2133
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:566
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:751
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1138
+msgid "External Link"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1143
+msgid "Private Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1146
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1150
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1153
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1156
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1158
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1160
+msgid "Not Updated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1162
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1356
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1372
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1373
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1374
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1375
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1393
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1394
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1904
+msgid "Install package not available."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1905
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1906
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1907
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1908
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1909
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1920
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2030
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2031
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2031
+#: inc/class-tgm-plugin-activation.php:2040
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2031
+#: inc/class-tgm-plugin-activation.php:2040
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2032
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2033
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2037
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2038
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2039
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2040
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2041
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2042
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/custom-functions.php:443
+msgid "In"
+msgstr ""
+
+#: inc/custom-functions.php:580
+msgid "Newer Entries"
+msgstr ""
+
+#: inc/custom-functions.php:583
+msgid "Older Entries"
+msgstr ""
+
+#: inc/custom-functions.php:683
+msgid "Prevoius Post"
+msgstr ""
+
+#: inc/custom-functions.php:695
+msgid "Next Post"
+msgstr ""
+
+#: inc/custom-functions.php:714
+msgid "Edit"
+msgstr ""
+
+#: inc/custom-functions.php:714
+msgid "Reply"
+msgstr ""
+
+#: inc/custom-functions.php:717
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/woocommerce.php:84
+msgid "Cart"
+msgstr ""
+
+#: inc/metaboxes/options.php:16
+msgid "Media Embed Options"
+msgstr ""
+
+#: inc/metaboxes/options.php:24
+msgid ""
+"You can enter media URL from any major video and audio hosting service "
+"(Youtube, Vimeo, DailyMotion, SoundCloud, Mixcloud, WordPress.tv, etc.). "
+"Supports services listed at <a href=\"http://codex.wordpress.org/Embeds\" "
+"target=\"_blank\">http://codex.wordpress.org/Embeds</a>"
+msgstr ""
+
+#: inc/metaboxes/options.php:30
+msgid "Media URL"
+msgstr ""
+
+#: inc/metaboxes/options.php:31
+msgid "Enter a media URL."
+msgstr ""
+
+#: inc/metaboxes/options.php:41
+msgid "Gallery Options"
+msgstr ""
+
+#: inc/metaboxes/options.php:50
+msgid "Images"
+msgstr ""
+
+#: inc/metaboxes/options.php:51
+msgid "Upload or select images from media library."
+msgstr ""
+
+#: inc/metaboxes/options.php:62
+msgid "Link Options"
+msgstr ""
+
+#: inc/metaboxes/options.php:70
+msgid "You can enter external or internal URL. For Post Link Format only."
+msgstr ""
+
+#: inc/metaboxes/options.php:76
+msgid "Post URL"
+msgstr ""
+
+#: inc/metaboxes/options.php:77
+msgid "Enter a post URL."
+msgstr ""
+
+#: inc/metaboxes/options.php:86
+msgid "Quote Options"
+msgstr ""
+
+#: inc/metaboxes/options.php:94
+msgid "Quote"
+msgstr ""
+
+#: inc/metaboxes/options.php:95
+msgid "Enter quote here."
+msgstr ""
+
+#: inc/metaboxes/options.php:100
+msgid "Author"
+msgstr ""
+
+#: inc/metaboxes/options.php:101
+msgid "Enter quote's author."
+msgstr ""
+
+#: inc/metaboxes/options.php:111
+msgid "Single Post Options"
+msgstr ""
+
+#: inc/metaboxes/options.php:120
+msgid ""
+"Check this to customize the sidebar for this post or uncheck to use default "
+"settings from theme options."
+msgstr ""
+
+#: inc/metaboxes/options.php:125 inc/metaboxes/options.php:547
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/metaboxes/options.php:126 inc/metaboxes/options.php:548
+msgid "Select sidebar position."
+msgstr ""
+
+#: inc/metaboxes/options.php:137
+msgid "Title Area"
+msgstr ""
+
+#: inc/metaboxes/options.php:138
+msgid "Check this to customize the title area for this post."
+msgstr ""
+
+#: inc/metaboxes/options.php:148
+msgid "Title Options"
+msgstr ""
+
+#: inc/metaboxes/options.php:158
+msgid "Show or Hide the page title."
+msgstr ""
+
+#: inc/metaboxes/options.php:182
+msgid "Title Background"
+msgstr ""
+
+#: inc/metaboxes/options.php:183
+msgid "Select a background type for the title."
+msgstr ""
+
+#: inc/metaboxes/options.php:197 inc/metaboxes/options.php:309
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: inc/metaboxes/options.php:203 inc/metaboxes/options.php:315
+msgid "Upload a video or enter a URL."
+msgstr ""
+
+#: inc/metaboxes/options.php:209 inc/metaboxes/options.php:321
+msgid "Choose a background color."
+msgstr ""
+
+#: inc/metaboxes/options.php:215 inc/metaboxes/options.php:327
+msgid "Background Size"
+msgstr ""
+
+#: inc/metaboxes/options.php:216 inc/metaboxes/options.php:328
+msgid ""
+"For full width background, choose Cover. For repeating background, choose "
+"Auto."
+msgstr ""
+
+#: inc/metaboxes/options.php:226 inc/metaboxes/options.php:357
+msgid "Parallax"
+msgstr ""
+
+#: inc/metaboxes/options.php:286
+msgid "Background Options"
+msgstr ""
+
+#: inc/metaboxes/options.php:295
+msgid "Select a background type for this page."
+msgstr ""
+
+#: inc/metaboxes/options.php:370
+msgid "Portfolio Options"
+msgstr ""
+
+#: inc/metaboxes/options.php:379
+msgid "Select portfolio layout."
+msgstr ""
+
+#: inc/metaboxes/options.php:390
+msgid "Project URL"
+msgstr ""
+
+#: inc/metaboxes/options.php:391
+msgid "Enter a project URL."
+msgstr ""
+
+#: inc/metaboxes/options.php:400
+msgid "Client Information"
+msgstr ""
+
+#: inc/metaboxes/options.php:432
+msgid "Customer Information"
+msgstr ""
+
+#: inc/metaboxes/options.php:440 inc/metaboxes/options.php:485
+msgid "Image"
+msgstr ""
+
+#: inc/metaboxes/options.php:441
+msgid "Customer's image."
+msgstr ""
+
+#: inc/metaboxes/options.php:446 inc/metaboxes/options.php:491
+msgid "Job Position"
+msgstr ""
+
+#: inc/metaboxes/options.php:447
+msgid "Enter a customer's job position."
+msgstr ""
+
+#: inc/metaboxes/options.php:453
+msgid "Company"
+msgstr ""
+
+#: inc/metaboxes/options.php:454
+msgid "Enter a company name."
+msgstr ""
+
+#: inc/metaboxes/options.php:461
+msgid "Enter a URL that applies to this customer or company."
+msgstr ""
+
+#: inc/metaboxes/options.php:477
+msgid "Member Information"
+msgstr ""
+
+#: inc/metaboxes/options.php:486
+msgid "Member's image."
+msgstr ""
+
+#: inc/metaboxes/options.php:492
+msgid "Enter a member's job position."
+msgstr ""
+
+#: inc/metaboxes/options.php:497
+msgid "Email Address"
+msgstr ""
+
+#: inc/metaboxes/options.php:498
+msgid "Enter a member's contact email address."
+msgstr ""
+
+#: inc/metaboxes/options.php:504
+msgid "Enter a URL that applies to this member."
+msgstr ""
+
+#: inc/metaboxes/options.php:510
+msgid "Social Networks"
+msgstr ""
+
+#: inc/metaboxes/options.php:512
+msgid "Social {#}"
+msgstr ""
+
+#: inc/metaboxes/options.php:513
+msgid "Add Another Social URL"
+msgstr ""
+
+#: inc/metaboxes/options.php:514
+msgid "Remove Social"
+msgstr ""
+
+#: inc/metaboxes/options.php:521
+msgid "Select a social networking websites."
+msgstr ""
+
+#: inc/metaboxes/options.php:527
+msgid "Enter member's profile URL or personal page."
+msgstr ""
+
+#: inc/metaboxes/options.php:539
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/metaboxes/options.php:564
+msgid "Header Options"
+msgstr ""
+
+#: inc/metaboxes/options.php:573
+msgid "Show or hide the header."
+msgstr ""
+
+#: inc/metaboxes/options.php:611
+msgid "Slider Options"
+msgstr ""
+
+#: inc/metaboxes/options.php:619
+msgid "Show Slider"
+msgstr ""
+
+#: inc/metaboxes/options.php:620
+msgid "Show the slider at top of the content."
+msgstr ""
+
+#: inc/metaboxes/options.php:625
+msgid "Select Slider Item"
+msgstr ""
+
+#: inc/metaboxes/options.php:626
+msgid "Select a slider item to display."
+msgstr ""
+
+#: inc/metaboxes/options.php:639
+msgid "Footer Options"
+msgstr ""
+
+#: inc/metaboxes/options.php:648
+msgid "Show or hide the footer."
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:30
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_tabs.php:52
+msgid "Previous tab"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:52
+msgid "Next tab"
+msgstr ""
+
+#: vc_templates/vc_toggle.php:4
+msgid "Click to toggle"
+msgstr ""
+
+#: widgets/facebook-like-widget.php:7
+msgid "Vela: Facebook Like"
+msgstr ""
+
+#: widgets/flickr-widget.php:7
+msgid "Vela: Flickr"
+msgstr ""
+
+#: widgets/popular-posts-widget.php:8
+msgid "Vela: Popular Posts"
+msgstr ""
+
+#: widgets/recent-posts-widget.php:9
+msgid "Vela: Recent Posts"
+msgstr ""

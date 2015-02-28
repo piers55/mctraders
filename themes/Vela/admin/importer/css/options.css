@@ -1,0 +1,73 @@
+/* Importer */
+.import-wrapper{
+    display: block;
+    line-height: 30px;
+}
+
+.import-wrapper .demo-item{
+    display: inline-block;
+    line-height: 0;
+    background: #fff;
+    margin: 10px 40px 10px 0;
+    border: 1px solid #eee;
+    transition: all .035s;
+    -webkit-transition: all .35s;
+}
+.import-wrapper .demo-item:hover{
+    box-shadow: 1px 1px 4px #ddd;
+    border-color: #ddd;
+}
+.import-wrapper .demo-item img{
+    padding: 4px;
+    width: 200px;
+    height: 200px;
+}
+
+
+.import-wrapper .loader-wrapper{
+    padding-left: 30px;
+}
+/* Loader */
+/* :not(:required) hides these rules from IE9 and below */
+.import-loader:not(:required) {
+  -webkit-animation: throbber 2000ms 300ms infinite ease-out;
+  -moz-animation: throbber 2000ms 300ms infinite ease-out;
+  -o-animation: throbber 2000ms 300ms infinite ease-out;
+  animation: throbber 2000ms 300ms infinite ease-out;
+  background: #dde2e7;
+  display: inline-block;
+  position: relative;
+  text-indent: -9999px;
+  width: 8px;
+  height: 10px;
+  margin: 0 12px;
+}
+
+.import-loader:not(:required):before, 
+.import-loader:not(:required):after {
+  background: #dde2e7;
+  content: '\x200B';
+  display: inline-block;
+  width: 8px;
+  height: 10px;
+  position: absolute;
+  top: 0;
+}
+
+.import-loader:not(:required):before {
+  -webkit-animation: throbber 2000ms 150ms infinite ease-out;
+  -moz-animation: throbber 2000ms 150ms infinite ease-out;
+  -ms-animation: throbber 2000ms 150ms infinite ease-out;
+  -o-animation: throbber 2000ms 150ms infinite ease-out;
+  animation: throbber 2000ms 150ms infinite ease-out;
+  left: -12px;
+}
+
+.import-loader:not(:required):after {
+  -webkit-animation: throbber 2000ms 450ms infinite ease-out;
+  -moz-animation: throbber 2000ms 450ms infinite ease-out;
+  -ms-animation: throbber 2000ms 450ms infinite ease-out;
+  -o-animation: throbber 2000ms 450ms infinite ease-out;
+  animation: throbber 2000ms 450ms infinite ease-out;
+  right: -12px;
+}
